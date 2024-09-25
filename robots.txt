@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fugusanomaye.netlify.app/sitemap.xml
